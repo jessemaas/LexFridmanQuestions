@@ -1,0 +1,2 @@
+transcript_url: https://lexfridman.com/yuval-noah-harari-transcript/ # Url to the transcript on Lex Fridman's website. Not all episodes have this.
+max_characters: null # Maximum number of characters per prompt. Either a number (4000 or lower if you use GPT-4, as of July 2023) or null, which represents infinity.

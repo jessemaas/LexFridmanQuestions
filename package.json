@@ -1,0 +1,17 @@
+{
+  "name": "summarize-lex-fridman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Maas",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "clipboardy": "^3.0.0",
+    "yaml": "^2.3.1"
+  }
+}
